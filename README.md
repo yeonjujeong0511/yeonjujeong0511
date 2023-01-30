@@ -2,7 +2,7 @@
 <h1>✨ Hello! I'm JeongYeonju ✨</h1>
 <p>안녕하세요. front-end 개발자 정연주입니다🙋🏻‍♀️</p>
 
-<p>💌 yeonjujeong0511@gamil.com</p>
+<p>💌 yeonjujeong0511@gmail.com</p>
 <a href="https://velog.io/@yeonju0511">
     <img 
         src="http://img.shields.io/badge/-Velog-21C998?style=flat&logo=Vector Logo Zone&link=https://velog.io/@yeonju0511"
